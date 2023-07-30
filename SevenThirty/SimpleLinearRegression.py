@@ -1,6 +1,5 @@
 import numpy as np
 import pandas as pd
-import seaborn as sb
 import matplotlib.pyplot as mp
 import sklearn
 
@@ -20,8 +19,19 @@ from sklearn.linear_model import LinearRegression
 regressor = LinearRegression()
 regressor.fit(X_train, Y_train)
 
+X_test = [[9.6], [9.7]]
 # 5. Predicting the test set results
 Y_prediction = regressor.predict(X_test)
+
 print (X_test)
-print(Y_test)
-print(Y_prediction)
+print (Y_prediction)
+
+# Visualize training data
+#mp.scatter(X_train, Y_train, color = 'blue')
+#mp.plot(X_train, regressor.predict(X_train), color='green')
+#mp.show()
+
+# Visualize test data
+#mp.scatter(X_test, Y_test, color = 'red')
+#mp.plot(Y_test, regressor.predict(X_train), color='black')
+#mp.show()
