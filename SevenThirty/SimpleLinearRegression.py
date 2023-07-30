@@ -19,12 +19,8 @@ from sklearn.linear_model import LinearRegression
 regressor = LinearRegression()
 regressor.fit(X_train, Y_train)
 
-X_test = [[9.6], [9.7]]
 # 5. Predicting the test set results
 Y_prediction = regressor.predict(X_test)
-
-print (X_test)
-print (Y_prediction)
 
 # Visualize training data
 #mp.scatter(X_train, Y_train, color = 'blue')
