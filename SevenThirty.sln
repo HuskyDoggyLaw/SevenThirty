@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SevenThirty", "SevenThirty\SevenThirty.pyproj", "{845FEA12-973E-454E-B10E-8732F1C9BEC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{845FEA12-973E-454E-B10E-8732F1C9BEC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{845FEA12-973E-454E-B10E-8732F1C9BEC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21A15FC2-54D4-4ACB-9002-3575FCE286A2}
+	EndGlobalSection
+EndGlobal
