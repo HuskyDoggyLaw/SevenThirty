@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>845fea12-973e-454e-b10e-8732f1c9bec3</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>SevenThirty.py</StartupFile>
+    <StartupFile>DataPreProcessingSample.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,10 +21,15 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="SevenThirty.py" />
+    <Compile Include="DataPreProcessingSample.py" />
+    <Compile Include="SimpleLinearRegression.py" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Data.csv" />
+    <Content Include="Data\CarPurchase.csv" />
+    <Content Include="Data\Salary.csv" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Data\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
