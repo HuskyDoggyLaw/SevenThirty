@@ -23,9 +23,9 @@ regressor.fit(X_train, Y_train)
 Y_prediction = regressor.predict(X_test)
 
 # Visualize training data
-#mp.scatter(X_train, Y_train, color = 'blue')
-#mp.plot(X_train, regressor.predict(X_train), color='green')
-#mp.show()
+mp.scatter(X_train, Y_train, color = 'blue')
+mp.plot(X_train, regressor.predict(X_train), color='green')
+mp.show()
 
 # Visualize test data
 #mp.scatter(X_test, Y_test, color = 'red')
