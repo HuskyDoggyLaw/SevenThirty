@@ -5,18 +5,14 @@ import sklearn
 
 datsetfilepath = "Data/Position_Salaries.csv"
 datsetfileformat = "csv"
-savemodelpath = "Data/linear_regression_model"
 
 from Common.DataSetOperations import DataSetOperations
 datasetoperations = DataSetOperations
 
-from Common.ModelOperations import ModelOperations
-modeloperations = ModelOperations
-
 from sklearn.tree import DecisionTreeRegressor
 trainmodel = DecisionTreeRegressor()
 
-from sklearn.tree import export_text
+from sklearn.metrics import accuracy_score
 
 # 1. Read the data
 ds = datasetoperations.read(datsetfilepath, datsetfileformat)
@@ -33,21 +29,23 @@ trainmodel.fit(X_train, Y_train)
 # 5. Predicting the test set results
 Y_prediction = trainmodel.predict(X_test)
 
-# 5.View the decision tree
-mp.figure(figsize=(10, 8))
-from sklearn.tree import plot_tree
-feature_names = ['Position', 'Level', 'Salary']
-plot_tree(trainmodel, feature_names=feature_names, filled=True)
-mp.show()
+# 6. Measure the accuracy 
+accuracy = accuracy_score(Y_test, Y_prediction)
 
-print("X Test:")
-print(X_test)
-print("Y Test: ")
-print(Y_test)
-print("Y Prediction: ")
-print(np.round(Y_prediction))
+#6. Print & view results
+print("X Test:", X_test)
+print("Y Test: ", Y_test)
+print("Y Prediction: ", np.round(Y_prediction))
+print("Accuracy: ", accuracy)
 
-# 6. Read the user data and provide the prediction
+#View the decision tree
+#mp.figure(figsize=(10, 8))
+#from sklearn.tree import plot_tree
+#feature_names = ['Input', 'Results']
+#plot_tree(trainmodel, feature_names=feature_names, filled=True)
+#mp.show()
+
+# 7. Read the user data and provide the prediction
 while (0 < 1):
     userinput = input("Enter input: ")
     userinput2darray = np.array([userinput], dtype=np.float64).reshape(-1, 1)

@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>845fea12-973e-454e-b10e-8732f1c9bec3</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>DecisionTreeRegression.py</StartupFile>
+    <StartupFile>SimpleLinearRegression.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
