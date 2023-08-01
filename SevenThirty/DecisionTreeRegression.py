@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as mp
 import sklearn
 
-datsetfilepath = "Data/Salary2.csv"
+datsetfilepath = "Data/Position_Salaries.csv"
 datsetfileformat = "csv"
 savemodelpath = "Data/linear_regression_model"
 
@@ -13,15 +13,15 @@ datasetoperations = DataSetOperations
 from Common.ModelOperations import ModelOperations
 modeloperations = ModelOperations
 
-from sklearn.linear_model import LinearRegression
-trainmodel = LinearRegression()
-loadedmodel = LinearRegression()
+from sklearn.tree import DecisionTreeRegressor
+trainmodel = DecisionTreeRegressor()
+loadedmodel = DecisionTreeRegressor()
 
 # 1. Read the data
 ds = datasetoperations.read(datsetfilepath, datsetfileformat)
 
 # 2. Segregate the independent & dependent columns
-#X, Y = datasetoperations.segregate_xy(ds,,-1)
+X, Y = datasetoperations.segregate_xy(ds, 1, -1)
 
 # 3. Splitting dataset into the Training set and Test set. Test set size = 20%
 X_train, X_test, Y_train, Y_test = datasetoperations.split(X, Y, 0.2)
