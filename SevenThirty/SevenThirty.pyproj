@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>845fea12-973e-454e-b10e-8732f1c9bec3</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>module1.py</StartupFile>
+    <StartupFile>TensorFlowTest.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -31,7 +31,7 @@
     </Compile>
     <Compile Include="FilteredData.py" />
     <Compile Include="MeanStd.py" />
-    <Compile Include="module1.py" />
+    <Compile Include="TensorFlowTest.py" />
     <Compile Include="SimpleLinearRegression.py" />
   </ItemGroup>
   <ItemGroup>
