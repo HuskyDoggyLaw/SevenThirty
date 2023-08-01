@@ -11,8 +11,8 @@ class DataSetOperations:
          if format == "csv":
              return pd.read_csv(fileloc)
 
-     def segregate_xy(dataset, y_col_start):
-         return dataset.iloc[:, :y_col_start].values, dataset.iloc[:, y_col_start].values
+     def segregate_xy(dataset, y_col_start, y_col_end):
+         return dataset.iloc[:, y_col_start: y_col_end].values, dataset.iloc[:, y_col_end].values
 
      def split (X, Y, size):
          from sklearn.model_selection import train_test_split

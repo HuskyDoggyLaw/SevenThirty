@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>845fea12-973e-454e-b10e-8732f1c9bec3</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>TensorFlowTest.py</StartupFile>
+    <StartupFile>DecisionTreeRegression.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -31,12 +31,16 @@
     </Compile>
     <Compile Include="FilteredData.py" />
     <Compile Include="MeanStd.py" />
+    <Compile Include="DecisionTreeRegression.py" />
     <Compile Include="TensorFlowTest.py" />
     <Compile Include="SimpleLinearRegression.py" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Data\CarPurchase.csv" />
+    <Content Include="Data\linear_regression_model" />
+    <Content Include="Data\Position_Salaries.csv" />
     <Content Include="Data\Salary.csv" />
+    <Content Include="Data\Salary2.csv" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Data\" />
