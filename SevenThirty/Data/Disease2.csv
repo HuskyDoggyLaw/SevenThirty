@@ -1,0 +1,192 @@
+Age,Gender,Blood Pressure,BMI,Smoking,Disease
+55,Male,High,26.12,Yes,Heart-Disease
+65,Female,High,26.56,No,Heart-Disease
+72,Male,Normal,23.15,No,No Disease
+58,Female,High,22.79,Yes,Heart-Disease
+60,Male,Normal,24.91,No,Heart-Disease
+50,Female,High,27.03,No,Heart-Disease
+68,Male,Normal,24.63,No,Heart-Disease
+62,Female,High,27.34,No,No Disease
+56,Male,Normal,25.04,Yes,No Disease
+63,Female,High,29.38,No,Heart-Disease
+70,Male,High,27.76,No,Heart-Disease
+45,Female,Normal,23.25,No,No Disease
+52,Male,Normal,25.14,Yes,No Disease
+57,Female,High,27.08,No,Heart-Disease
+67,Male,High,24.6,Yes,Heart-Disease
+54,Female,Normal,25.78,Yes,No Disease
+69,Male,Normal,25,No,Heart-Disease
+48,Female,High,25.34,No,No Disease
+59,Male,Normal,25.35,No,No Disease
+66,Female,High,28.29,Yes,Heart-Disease
+73,Male,High,27.16,Yes,Heart-Disease
+49,Female,Normal,23.67,No,No Disease
+51,Male,Normal,23.53,No,No Disease
+64,Female,High,27.19,Yes,Heart-Disease
+71,Male,High,25.86,Yes,Heart-Disease
+47,Female,Normal,22.27,No,No Disease
+58,Male,Normal,24.49,No,No Disease
+76,Female,High,25.91,No,Heart-Disease
+55,Male,Normal,24.22,Yes,No Disease
+60,Female,High,25.39,No,No Disease
+62,Male,High,26.43,Yes,Heart-Disease
+68,Female,High,27.09,No,No Disease
+41,Male,Normal,25.04,No,Heart-Disease
+66,Female,Normal,26.3,Yes,Heart-Disease
+43,Male,High,22.86,No,No Disease
+69,Female,Normal,24.61,Yes,No Disease
+53,Male,High,26.43,No,Heart-Disease
+47,Female,High,26,Yes,No Disease
+55,Male,Normal,24.57,No,No Disease
+62,Female,High,25,Yes,No Disease
+59,Male,High,24.73,No,No Disease
+48,Female,High,24.1,No,No Disease
+56,Male,Normal,24.34,Yes,No Disease
+67,Female,High,29.38,Yes,Heart-Disease
+71,Male,High,25,No,Heart-Disease
+47,Female,Normal,23.25,Yes,No Disease
+51,Male,Normal,25.14,No,No Disease
+64,Female,High,27.19,Yes,Heart-Disease
+71,Male,High,26.77,No,Heart-Disease
+57,Female,High,30.03,Yes,Heart-Disease
+67,Male,High,28.09,Yes,Heart-Disease
+54,Female,Normal,25.78,No,No Disease
+69,Male,Normal,25.62,Yes,Heart-Disease
+48,Female,High,24.61,Yes,No Disease
+62,Male,Normal,26.43,No,Heart-Disease
+58,Female,High,25.71,No,Heart-Disease
+65,Male,Normal,23.51,No,No Disease
+61,Female,High,26.56,Yes,No Disease
+72,Male,High,24.31,Yes,No Disease
+68,Female,High,27.09,Yes,No Disease
+56,Male,Normal,25.04,Yes,No Disease
+64,Female,High,25.38,Yes,No Disease
+53,Male,High,26.43,Yes,Heart-Disease
+49,Female,Normal,23.25,No,No Disease
+54,Male,Normal,24.22,No,No Disease
+64,Female,High,23.88,No,No Disease
+67,Male,High,25.1,No,No Disease
+56,Female,Normal,24.22,No,No Disease
+57,Male,High,23.39,No,No Disease
+50,Female,High,25.23,No,No Disease
+60,Male,Normal,25.61,No,No Disease
+68,Female,High,29.68,No,Heart-Disease
+72,Male,High,25.23,Yes,Heart-Disease
+65,Female,Normal,22.79,Yes,No Disease
+69,Male,High,25,No,No Disease
+45,Female,Normal,23.67,Yes,No Disease
+52,Male,Normal,25.14,No,No Disease
+57,Female,High,27.08,Yes,Heart-Disease
+67,Male,High,24.6,Yes,Heart-Disease
+54,Female,Normal,25.78,Yes,No Disease
+69,Male,Normal,25,No,Heart-Disease
+48,Female,High,25.34,No,No Disease
+59,Male,Normal,25.35,No,No Disease
+66,Female,High,28.29,Yes,Heart-Disease
+73,Male,High,27.16,Yes,Heart-Disease
+49,Female,Normal,23.67,No,No Disease
+51,Male,Normal,23.53,No,No Disease
+64,Female,High,27.19,Yes,Heart-Disease
+71,Male,High,25.86,Yes,Heart-Disease
+47,Female,Normal,22.27,No,No Disease
+58,Male,Normal,24.49,No,No Disease
+76,Female,High,25.91,No,Heart-Disease
+55,Male,Normal,24.22,Yes,No Disease
+60,Female,High,25.39,No,No Disease
+62,Male,High,26.43,Yes,Heart-Disease
+68,Female,High,27.09,No,No Disease
+41,Male,Normal,25.04,No,Heart-Disease
+66,Female,Normal,26.3,Yes,Heart-Disease
+43,Male,High,22.86,No,No Disease
+69,Female,Normal,24.61,Yes,No Disease
+53,Male,High,26.43,No,Heart-Disease
+47,Female,High,26,Yes,No Disease
+55,Male,Normal,24.57,No,No Disease
+62,Female,High,25,Yes,No Disease
+71,Male,High,25,No,Heart-Disease
+47,Female,Normal,23.25,Yes,No Disease
+51,Male,Normal,25.14,No,No Disease
+64,Female,High,27.19,Yes,Heart-Disease
+71,Male,High,26.77,No,Heart-Disease
+57,Female,High,30.03,Yes,Heart-Disease
+67,Male,High,28.09,Yes,Heart-Disease
+54,Female,Normal,25.78,No,No Disease
+69,Male,Normal,25.62,Yes,Heart-Disease
+48,Female,High,24.61,Yes,No Disease
+62,Male,Normal,26.43,No,Heart-Disease
+58,Female,High,25.71,No,Heart-Disease
+65,Male,Normal,23.51,No,No Disease
+61,Female,High,26.56,Yes,No Disease
+72,Male,High,24.31,Yes,No Disease
+68,Female,High,27.09,Yes,No Disease
+56,Male,Normal,25.04,Yes,No Disease
+64,Female,High,25.38,Yes,No Disease
+53,Male,High,26.43,Yes,Heart-Disease
+49,Female,Normal,23.25,No,No Disease
+54,Male,Normal,24.22,No,No Disease
+64,Female,High,23.88,No,No Disease
+67,Male,High,25.1,No,No Disease
+56,Female,Normal,24.22,No,No Disease
+57,Male,High,23.39,No,No Disease
+50,Female,High,25.23,No,No Disease
+60,Male,Normal,25.61,No,No Disease
+68,Female,High,29.68,No,Heart-Disease
+72,Male,High,25.23,Yes,Heart-Disease
+65,Female,Normal,22.79,Yes,No Disease
+69,Male,High,25,No,No Disease
+45,Female,Normal,23.67,Yes,No Disease
+52,Male,Normal,25.14,No,No Disease
+57,Female,High,27.08,Yes,Heart-Disease
+67,Male,High,24.6,Yes,Heart-Disease
+54,Female,Normal,25.78,Yes,No Disease
+69,Male,Normal,25,No,Heart-Disease
+48,Female,High,25.34,No,No Disease
+59,Male,Normal,25.35,No,No Disease
+66,Female,High,28.29,Yes,Heart-Disease
+73,Male,High,27.16,Yes,Heart-Disease
+49,Female,Normal,23.67,No,No Disease
+51,Male,Normal,23.53,No,No Disease
+64,Female,High,27.19,Yes,Heart-Disease
+71,Male,High,25.86,Yes,Heart-Disease
+47,Female,Normal,22.27,No,No Disease
+58,Male,Normal,24.49,No,No Disease
+76,Female,High,25.91,No,Heart-Disease
+55,Male,Normal,24.22,Yes,No Disease
+60,Female,High,25.39,No,No Disease
+62,Male,High,26.43,Yes,No Disease
+68,Female,High,27.09,No,No Disease
+41,Male,Normal,25.04,No,Heart-Disease
+66,Female,Normal,26.3,Yes,Heart-Disease
+43,Male,High,22.86,No,No Disease
+69,Female,Normal,24.61,Yes,No Disease
+53,Male,High,26.43,No,Heart-Disease
+47,Female,High,26,Yes,No Disease
+55,Male,Normal,24.57,No,No Disease
+62,Female,High,25,Yes,No Disease
+59,Male,High,24.73,No,No Disease
+48,Female,High,24.1,No,No Disease
+56,Male,Normal,24.34,Yes,No Disease
+67,Female,High,29.38,Yes,Heart-Disease
+71,Male,High,25,No,Heart-Disease
+47,Female,Normal,23.25,Yes,No Disease
+51,Male,Normal,25.14,No,No Disease
+64,Female,High,27.19,Yes,Heart-Disease
+71,Male,High,26.77,No,Heart-Disease
+57,Female,High,30.03,Yes,Heart-Disease
+67,Male,High,28.09,Yes,Heart-Disease
+54,Female,Normal,25.78,No,No Disease
+69,Male,Normal,25.62,Yes,Heart-Disease
+48,Female,High,24.61,Yes,No Disease
+62,Male,Normal,26.43,No,Heart-Disease
+58,Female,High,25.71,No,Heart-Disease
+65,Male,Normal,23.51,No,No Disease
+61,Female,High,26.56,Yes,No Disease
+72,Male,High,24.31,Yes,No Disease
+68,Female,High,27.09,Yes,No Disease
+56,Male,Normal,25.04,Yes,No Disease
+64,Female,High,25.38,Yes,No Disease
+53,Male,High,26.43,Yes,Heart-Disease
+49,Female,Normal,23.25,No,No Disease
+54,Male,Normal,24.22,No,No Disease
+64,Female,High,23.88,No,No Disease
+67,Male,High,23.88,No,No Disease

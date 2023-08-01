@@ -1,0 +1,193 @@
+Age,Gender,Blood Pressure,Cholesterol,Blood Sugar,Weight,Height,BMI,Smoking,Diet,Disease
+55,Male,High,High,High,80,175,26.12,Yes,High-Fat,Heart-Disease
+65,Female,High,Normal,High,68,160,26.56,No,Low-Fat,Heart-Disease
+72,Male,Normal,High,High,75,180,23.15,No,High-Fat,No Disease
+58,Female,High,Normal,Normal,62,165,22.79,Yes,Low-Fat,Heart-Disease
+60,Male,Normal,Normal,Normal,72,170,24.91,No,Moderate,Heart-Disease
+50,Female,High,High,High,65,155,27.03,No,High-Fat,Heart-Disease
+68,Male,Normal,High,High,78,178,24.63,No,Low-Fat,Heart-Disease
+62,Female,High,Normal,Normal,70,160,27.34,No,Moderate,No Disease
+56,Male,Normal,Normal,Normal,74,172,25.04,Yes,Moderate,No Disease
+63,Female,High,High,High,80,165,29.38,No,High-Fat,Heart-Disease
+70,Male,High,Normal,High,85,175,27.76,No,Moderate,Heart-Disease
+45,Female,Normal,High,Normal,58,158,23.25,No,Low-Fat,No Disease
+52,Male,Normal,Normal,Normal,71,168,25.14,Yes,Moderate,No Disease
+57,Female,High,High,High,72,163,27.08,No,High-Fat,Heart-Disease
+67,Male,High,Normal,High,77,177,24.6,Yes,Moderate,Heart-Disease
+54,Female,Normal,Normal,Normal,66,160,25.78,Yes,Moderate,No Disease
+69,Male,Normal,High,High,81,180,25,No,Low-Fat,Heart-Disease
+48,Female,High,Normal,Normal,61,155,25.34,No,Moderate,No Disease
+59,Male,Normal,Normal,Normal,76,173,25.35,No,Low-Fat,No Disease
+66,Female,High,High,High,79,167,28.29,Yes,High-Fat,Heart-Disease
+73,Male,High,Normal,High,88,180,27.16,Yes,High-Fat,Heart-Disease
+49,Female,Normal,High,Normal,59,158,23.67,No,Low-Fat,No Disease
+51,Male,Normal,Normal,Normal,68,170,23.53,No,Moderate,No Disease
+64,Female,High,High,High,74,165,27.19,Yes,High-Fat,Heart-Disease
+71,Male,High,Normal,High,82,178,25.86,Yes,High-Fat,Heart-Disease
+47,Female,Normal,High,Normal,57,160,22.27,No,Low-Fat,No Disease
+58,Male,Normal,Normal,Normal,75,175,24.49,No,Moderate,No Disease
+76,Female,High,High,High,68,162,25.91,No,High-Fat,Heart-Disease
+55,Male,Normal,Normal,Normal,70,170,24.22,Yes,Moderate,No Disease
+60,Female,High,Normal,Normal,65,160,25.39,No,Low-Fat,No Disease
+62,Male,High,High,High,78,172,26.43,Yes,Moderate,Heart-Disease
+68,Female,High,Normal,High,72,163,27.09,No,Low-Fat,No Disease
+41,Male,Normal,High,High,83,182,25.04,No,High-Fat,Heart-Disease
+66,Female,Normal,High,High,76,170,26.3,Yes,Low-Fat,Heart-Disease
+43,Male,High,Normal,High,70,175,22.86,No,Moderate,No Disease
+69,Female,Normal,Normal,Normal,63,160,24.61,Yes,Moderate,No Disease
+53,Male,High,High,High,78,172,26.43,No,High-Fat,Heart-Disease
+47,Female,High,Normal,Normal,65,158,26,Yes,Low-Fat,No Disease
+55,Male,Normal,High,High,71,170,24.57,No,High-Fat,No Disease
+62,Female,High,Normal,High,68,165,25,Yes,Moderate,No Disease
+59,Male,High,Normal,High,76,175,24.73,No,Moderate,No Disease
+48,Female,High,High,High,64,163,24.1,No,High-Fat,No Disease
+56,Male,Normal,Normal,Normal,72,172,24.34,Yes,Low-Fat,No Disease
+67,Female,High,High,High,80,165,29.38,Yes,High-Fat,Heart-Disease
+71,Male,High,Normal,High,81,180,25,No,Moderate,Heart-Disease
+47,Female,Normal,High,Normal,58,158,23.25,Yes,High-Fat,No Disease
+51,Male,Normal,Normal,Normal,71,168,25.14,No,Moderate,No Disease
+64,Female,High,High,High,74,165,27.19,Yes,High-Fat,Heart-Disease
+71,Male,High,Normal,High,85,178,26.77,No,High-Fat,Heart-Disease
+57,Female,High,Normal,High,80,163,30.03,Yes,Moderate,Heart-Disease
+67,Male,High,Normal,High,88,177,28.09,Yes,High-Fat,Heart-Disease
+54,Female,Normal,Normal,Normal,66,160,25.78,No,Moderate,No Disease
+69,Male,Normal,High,High,83,180,25.62,Yes,Moderate,Heart-Disease
+48,Female,High,Normal,Normal,59,155,24.61,Yes,Low-Fat,No Disease
+62,Male,Normal,High,High,78,172,26.43,No,High-Fat,Heart-Disease
+58,Female,High,High,High,70,165,25.71,No,Moderate,Heart-Disease
+65,Male,Normal,Normal,Normal,72,175,23.51,No,Low-Fat,No Disease
+61,Female,High,Normal,High,68,160,26.56,Yes,Low-Fat,No Disease
+72,Male,High,High,High,77,178,24.31,Yes,Moderate,No Disease
+68,Female,High,Normal,High,72,163,27.09,Yes,Low-Fat,No Disease
+56,Male,Normal,Normal,Normal,74,172,25.04,Yes,Moderate,No Disease
+64,Female,High,Normal,High,69,165,25.38,Yes,High-Fat,No Disease
+53,Male,High,High,High,78,172,26.43,Yes,Moderate,Heart-Disease
+49,Female,Normal,High,High,58,158,23.25,No,High-Fat,No Disease
+54,Male,Normal,High,High,70,170,24.22,No,High-Fat,No Disease
+64,Female,High,Normal,Normal,65,165,23.88,No,Low-Fat,No Disease
+67,Male,High,High,High,77,175,25.1,No,Moderate,No Disease
+56,Female,Normal,High,High,62,160,24.22,No,High-Fat,No Disease
+57,Male,High,High,High,70,173,23.39,No,High-Fat,No Disease
+50,Female,High,Normal,High,63,158,25.23,No,Moderate,No Disease
+60,Male,Normal,Normal,Normal,74,170,25.61,No,Moderate,No Disease
+68,Female,High,High,High,79,163,29.68,No,Low-Fat,Heart-Disease
+72,Male,High,High,High,80,178,25.23,Yes,High-Fat,Heart-Disease
+65,Female,Normal,Normal,Normal,62,165,22.79,Yes,Low-Fat,No Disease
+69,Male,High,Normal,High,81,180,25,No,Moderate,No Disease
+45,Female,Normal,High,Normal,59,158,23.67,Yes,High-Fat,No Disease
+52,Male,Normal,Normal,Normal,71,168,25.14,No,Moderate,No Disease
+57,Female,High,High,High,72,163,27.08,Yes,High-Fat,Heart-Disease
+67,Male,High,Normal,High,77,177,24.6,Yes,Moderate,Heart-Disease
+54,Female,Normal,Normal,Normal,66,160,25.78,Yes,Moderate,No Disease
+69,Male,Normal,High,High,81,180,25,No,Low-Fat,Heart-Disease
+48,Female,High,Normal,Normal,61,155,25.34,No,Moderate,No Disease
+59,Male,Normal,Normal,Normal,76,173,25.35,No,Low-Fat,No Disease
+66,Female,High,High,High,79,167,28.29,Yes,High-Fat,Heart-Disease
+73,Male,High,Normal,High,88,180,27.16,Yes,High-Fat,Heart-Disease
+49,Female,Normal,High,Normal,59,158,23.67,No,Low-Fat,No Disease
+51,Male,Normal,Normal,Normal,68,170,23.53,No,Moderate,No Disease
+64,Female,High,High,High,74,165,27.19,Yes,High-Fat,Heart-Disease
+71,Male,High,Normal,High,82,178,25.86,Yes,High-Fat,Heart-Disease
+47,Female,Normal,High,Normal,57,160,22.27,No,Low-Fat,No Disease
+58,Male,Normal,Normal,Normal,75,175,24.49,No,Moderate,No Disease
+76,Female,High,High,High,68,162,25.91,No,High-Fat,Heart-Disease
+55,Male,Normal,Normal,Normal,70,170,24.22,Yes,Moderate,No Disease
+60,Female,High,Normal,Normal,65,160,25.39,No,Low-Fat,No Disease
+62,Male,High,High,High,78,172,26.43,Yes,Moderate,Heart-Disease
+68,Female,High,Normal,High,72,163,27.09,No,Low-Fat,No Disease
+41,Male,Normal,High,High,83,182,25.04,No,High-Fat,Heart-Disease
+66,Female,Normal,High,High,76,170,26.3,Yes,Low-Fat,Heart-Disease
+43,Male,High,Normal,High,70,175,22.86,No,Moderate,No Disease
+69,Female,Normal,Normal,Normal,63,160,24.61,Yes,Moderate,No Disease
+53,Male,High,High,High,78,172,26.43,No,High-Fat,Heart-Disease
+47,Female,High,Normal,Normal,65,158,26,Yes,Low-Fat,No Disease
+55,Male,Normal,High,High,71,170,24.57,No,High-Fat,No Disease
+62,Female,High,Normal,High,68,165,25,Yes,Moderate,No Disease
+59,Male,High,NormalHeart-Disease,,,,,,,
+71,Male,High,Normal,High,81,180,25,No,Moderate,Heart-Disease
+47,Female,Normal,High,Normal,58,158,23.25,Yes,High-Fat,No Disease
+51,Male,Normal,Normal,Normal,71,168,25.14,No,Moderate,No Disease
+64,Female,High,High,High,74,165,27.19,Yes,High-Fat,Heart-Disease
+71,Male,High,Normal,High,85,178,26.77,No,High-Fat,Heart-Disease
+57,Female,High,Normal,High,80,163,30.03,Yes,Moderate,Heart-Disease
+67,Male,High,Normal,High,88,177,28.09,Yes,High-Fat,Heart-Disease
+54,Female,Normal,Normal,Normal,66,160,25.78,No,Moderate,No Disease
+69,Male,Normal,High,High,83,180,25.62,Yes,Moderate,Heart-Disease
+48,Female,High,Normal,Normal,59,155,24.61,Yes,Low-Fat,No Disease
+62,Male,Normal,High,High,78,172,26.43,No,High-Fat,Heart-Disease
+58,Female,High,High,High,70,165,25.71,No,Moderate,Heart-Disease
+65,Male,Normal,Normal,Normal,72,175,23.51,No,Low-Fat,No Disease
+61,Female,High,Normal,High,68,160,26.56,Yes,Low-Fat,No Disease
+72,Male,High,High,High,77,178,24.31,Yes,Moderate,No Disease
+68,Female,High,Normal,High,72,163,27.09,Yes,Low-Fat,No Disease
+56,Male,Normal,Normal,Normal,74,172,25.04,Yes,Moderate,No Disease
+64,Female,High,Normal,High,69,165,25.38,Yes,High-Fat,No Disease
+53,Male,High,High,High,78,172,26.43,Yes,Moderate,Heart-Disease
+49,Female,Normal,High,High,58,158,23.25,No,High-Fat,No Disease
+54,Male,Normal,High,High,70,170,24.22,No,High-Fat,No Disease
+64,Female,High,Normal,Normal,65,165,23.88,No,Low-Fat,No Disease
+67,Male,High,High,High,77,175,25.1,No,Moderate,No Disease
+56,Female,Normal,High,High,62,160,24.22,No,High-Fat,No Disease
+57,Male,High,High,High,70,173,23.39,No,High-Fat,No Disease
+50,Female,High,Normal,High,63,158,25.23,No,Moderate,No Disease
+60,Male,Normal,Normal,Normal,74,170,25.61,No,Moderate,No Disease
+68,Female,High,High,High,79,163,29.68,No,Low-Fat,Heart-Disease
+72,Male,High,High,High,80,178,25.23,Yes,High-Fat,Heart-Disease
+65,Female,Normal,Normal,Normal,62,165,22.79,Yes,Low-Fat,No Disease
+69,Male,High,Normal,High,81,180,25,No,Moderate,No Disease
+45,Female,Normal,High,Normal,59,158,23.67,Yes,High-Fat,No Disease
+52,Male,Normal,Normal,Normal,71,168,25.14,No,Moderate,No Disease
+57,Female,High,High,High,72,163,27.08,Yes,High-Fat,Heart-Disease
+67,Male,High,Normal,High,77,177,24.6,Yes,Moderate,Heart-Disease
+54,Female,Normal,Normal,Normal,66,160,25.78,Yes,Moderate,No Disease
+69,Male,Normal,High,High,81,180,25,No,Low-Fat,Heart-Disease
+48,Female,High,Normal,Normal,61,155,25.34,No,Moderate,No Disease
+59,Male,Normal,Normal,Normal,76,173,25.35,No,Low-Fat,No Disease
+66,Female,High,High,High,79,167,28.29,Yes,High-Fat,Heart-Disease
+73,Male,High,Normal,High,88,180,27.16,Yes,High-Fat,Heart-Disease
+49,Female,Normal,High,Normal,59,158,23.67,No,Low-Fat,No Disease
+51,Male,Normal,Normal,Normal,68,170,23.53,No,Moderate,No Disease
+64,Female,High,High,High,74,165,27.19,Yes,High-Fat,Heart-Disease
+71,Male,High,Normal,High,82,178,25.86,Yes,High-Fat,Heart-Disease
+47,Female,Normal,High,Normal,57,160,22.27,No,Low-Fat,No Disease
+58,Male,Normal,Normal,Normal,75,175,24.49,No,Moderate,No Disease
+76,Female,High,High,High,68,162,25.91,No,High-Fat,Heart-Disease
+55,Male,Normal,Normal,Normal,70,170,24.22,Yes,Moderate,No Disease
+60,Female,High,Normal,Normal,65,160,25.39,No,Low-Fat,No Disease
+62,Male,High,High,High,78,172,26.43,Yes,Moderate,No Disease
+68,Female,High,Normal,High,72,163,27.09,No,Low-Fat,No Disease
+41,Male,Normal,High,High,83,182,25.04,No,High-Fat,Heart-Disease
+66,Female,Normal,High,High,76,170,26.3,Yes,Low-Fat,Heart-Disease
+43,Male,High,Normal,High,70,175,22.86,No,Moderate,No Disease
+69,Female,Normal,Normal,Normal,63,160,24.61,Yes,Moderate,No Disease
+53,Male,High,High,High,78,172,26.43,No,High-Fat,Heart-Disease
+47,Female,High,Normal,Normal,65,158,26,Yes,Low-Fat,No Disease
+55,Male,Normal,High,High,71,170,24.57,No,High-Fat,No Disease
+62,Female,High,Normal,High,68,165,25,Yes,Moderate,No Disease
+59,Male,High,Normal,High,76,175,24.73,No,Moderate,No Disease
+48,Female,High,High,High,64,163,24.1,No,High-Fat,No Disease
+56,Male,Normal,Normal,Normal,72,172,24.34,Yes,Low-Fat,No Disease
+67,Female,High,High,High,80,165,29.38,Yes,High-Fat,Heart-Disease
+71,Male,High,Normal,High,81,180,25,No,Moderate,Heart-Disease
+47,Female,Normal,High,Normal,58,158,23.25,Yes,High-Fat,No Disease
+51,Male,Normal,Normal,Normal,71,168,25.14,No,Moderate,No Disease
+64,Female,High,High,High,74,165,27.19,Yes,High-Fat,Heart-Disease
+71,Male,High,Normal,High,85,178,26.77,No,High-Fat,Heart-Disease
+57,Female,High,Normal,High,80,163,30.03,Yes,Moderate,Heart-Disease
+67,Male,High,Normal,High,88,177,28.09,Yes,High-Fat,Heart-Disease
+54,Female,Normal,Normal,Normal,66,160,25.78,No,Moderate,No Disease
+69,Male,Normal,High,High,83,180,25.62,Yes,Moderate,Heart-Disease
+48,Female,High,Normal,Normal,59,155,24.61,Yes,Low-Fat,No Disease
+62,Male,Normal,High,High,78,172,26.43,No,High-Fat,Heart-Disease
+58,Female,High,High,High,70,165,25.71,No,Moderate,Heart-Disease
+65,Male,Normal,Normal,Normal,72,175,23.51,No,Low-Fat,No Disease
+61,Female,High,Normal,High,68,160,26.56,Yes,Low-Fat,No Disease
+72,Male,High,High,High,77,178,24.31,Yes,Moderate,No Disease
+68,Female,High,Normal,High,72,163,27.09,Yes,Low-Fat,No Disease
+56,Male,Normal,Normal,Normal,74,172,25.04,Yes,Moderate,No Disease
+64,Female,High,Normal,High,69,165,25.38,Yes,High-Fat,No Disease
+53,Male,High,High,High,78,172,26.43,Yes,Moderate,Heart-Disease
+49,Female,Normal,High,High,58,158,23.25,No,High-Fat,No Disease
+54,Male,Normal,High,High,70,170,24.22,No,High-Fat,No Disease
+64,Female,High,Normal,Normal,65,165,23.88,No,Low-Fat,No Disease
+67,Male,High,High,High,77,175,23.88,No,Low-Fat,No Disease

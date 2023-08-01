@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>845fea12-973e-454e-b10e-8732f1c9bec3</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>SimpleLinearRegression.py</StartupFile>
+    <StartupFile>Classification\NaiveBayesClassification.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -24,19 +24,25 @@
     <Compile Include="Common\ModelOperations.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="CSVGenerator.py" />
-    <Compile Include="DataPreProcessingSample.py" />
+    <Compile Include="Misc\CSVGenerator.py" />
+    <Compile Include="Misc\DataPreProcessingSample.py" />
     <Compile Include="Common\DataSetOperations.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="FilteredData.py" />
-    <Compile Include="MeanStd.py" />
-    <Compile Include="DecisionTreeRegression.py" />
-    <Compile Include="TensorFlowTest.py" />
-    <Compile Include="SimpleLinearRegression.py" />
+    <Compile Include="Classification\NaiveBayesClassification.py" />
+    <Compile Include="Classification\RandomForestTreeClassification.py" />
+    <Compile Include="Classification\DecisionTreeClassification.py" />
+    <Compile Include="Misc\FilteredData.py" />
+    <Compile Include="Misc\MeanStd.py" />
+    <Compile Include="Regression\DecisionTreeRegression.py" />
+    <Compile Include="Misc\TensorFlowTest.py" />
+    <Compile Include="Regression\SimpleLinearRegression.py" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Data\CarPurchase.csv" />
+    <Content Include="Data\Disease.csv" />
+    <Content Include="Data\Disease2.csv" />
+    <Content Include="Data\DTRegression.csv" />
     <Content Include="Data\linear_regression_model" />
     <Content Include="Data\Position_Salaries.csv" />
     <Content Include="Data\Salary.csv" />
@@ -45,6 +51,9 @@
   <ItemGroup>
     <Folder Include="Data\" />
     <Folder Include="Common\" />
+    <Folder Include="Misc\" />
+    <Folder Include="Classification\" />
+    <Folder Include="Regression\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
