@@ -15,6 +15,7 @@ modeloperations = ModelOperations
 
 from sklearn.tree import DecisionTreeRegressor
 trainmodel = DecisionTreeRegressor()
+loadedmodel = DecisionTreeRegressor()
 
 from sklearn.tree import export_text
 
