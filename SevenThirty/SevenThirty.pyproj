@@ -31,10 +31,10 @@
     </Compile>
     <Compile Include="Classification\NaiveBayesClassification.py" />
     <Compile Include="Classification\RandomForestTreeClassification.py" />
-    <Compile Include="Classification\DecisionTreeClassification.py" />
+    <Compile Include="Algorithms\Classification\DecisionTreeClassification.py" />
     <Compile Include="Misc\FilteredData.py" />
     <Compile Include="Misc\MeanStd.py" />
-    <Compile Include="Regression\DecisionTreeRegression.py" />
+    <Compile Include="Algorithms\Regression\DecisionTreeRegression.py" />
     <Compile Include="Misc\TensorFlowTest.py" />
     <Compile Include="Regression\SimpleLinearRegression.py" />
   </ItemGroup>
@@ -52,8 +52,10 @@
     <Folder Include="Data\" />
     <Folder Include="Common\" />
     <Folder Include="Misc\" />
-    <Folder Include="Classification\" />
-    <Folder Include="Regression\" />
+    <Folder Include="Algorithms\Classification\" />
+    <Folder Include="Algorithms\Clustering\" />
+    <Folder Include="Algorithms\" />
+    <Folder Include="Algorithms\Regression\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
