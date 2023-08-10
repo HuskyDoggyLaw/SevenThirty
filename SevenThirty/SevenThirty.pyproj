@@ -23,6 +23,7 @@
   <ItemGroup>
     <Compile Include="Algorithms\Classification\NaiveBayesClassification.py" />
     <Compile Include="Algorithms\Classification\RandomForestTreeClassification.py" />
+    <Compile Include="Algorithms\Clustering\KMeansClustering.py" />
     <Compile Include="Algorithms\Regression\SimpleLinearRegression.py" />
     <Compile Include="Common\ModelOperations.py">
       <SubType>Code</SubType>
