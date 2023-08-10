@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>845fea12-973e-454e-b10e-8732f1c9bec3</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Classification\NaiveBayesClassification.py</StartupFile>
+    <StartupFile>Algorithms\Clustering\KMeansClustering.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -45,6 +45,7 @@
     <Content Include="Data\Disease2.csv" />
     <Content Include="Data\DTRegression.csv" />
     <Content Include="Data\linear_regression_model" />
+    <Content Include="Data\Mall_Customers.csv" />
     <Content Include="Data\Position_Salaries.csv" />
     <Content Include="Data\Salary.csv" />
     <Content Include="Data\Salary2.csv" />
