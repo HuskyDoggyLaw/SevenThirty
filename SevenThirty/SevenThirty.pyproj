@@ -21,6 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Algorithms\Classification\NaiveBayesClassification.py" />
+    <Compile Include="Algorithms\Classification\RandomForestTreeClassification.py" />
+    <Compile Include="Algorithms\Regression\SimpleLinearRegression.py" />
     <Compile Include="Common\ModelOperations.py">
       <SubType>Code</SubType>
     </Compile>
@@ -29,14 +32,11 @@
     <Compile Include="Common\DataSetOperations.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Classification\NaiveBayesClassification.py" />
-    <Compile Include="Classification\RandomForestTreeClassification.py" />
     <Compile Include="Algorithms\Classification\DecisionTreeClassification.py" />
     <Compile Include="Misc\FilteredData.py" />
     <Compile Include="Misc\MeanStd.py" />
     <Compile Include="Algorithms\Regression\DecisionTreeRegression.py" />
     <Compile Include="Misc\TensorFlowTest.py" />
-    <Compile Include="Regression\SimpleLinearRegression.py" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Data\CarPurchase.csv" />
