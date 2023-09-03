@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>845fea12-973e-454e-b10e-8732f1c9bec3</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Algorithms\Reinforced\Taxi.py</StartupFile>
+    <StartupFile>Algorithms\Reinforced\UCB.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -25,7 +25,7 @@
     <Compile Include="Algorithms\Classification\RandomForestTreeClassification.py" />
     <Compile Include="Algorithms\Clustering\KMeansClustering.py" />
     <Compile Include="Algorithms\Regression\SimpleLinearRegression.py" />
-    <Compile Include="Algorithms\Reinforced\Taxi.py" />
+    <Compile Include="Algorithms\Reinforced\UCB.py" />
     <Compile Include="Common\ModelOperations.py">
       <SubType>Code</SubType>
     </Compile>
@@ -39,8 +39,10 @@
     <Compile Include="Misc\MeanStd.py" />
     <Compile Include="Algorithms\Regression\DecisionTreeRegression.py" />
     <Compile Include="Misc\TensorFlowTest.py" />
+    <Compile Include="Algorithms\Reinforced\Taxi.py" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Data\Ads_CTR_Optimisation.csv" />
     <Content Include="Data\CarPurchase.csv" />
     <Content Include="Data\Disease.csv" />
     <Content Include="Data\Disease2.csv" />
